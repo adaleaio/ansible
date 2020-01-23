@@ -1,0 +1,20 @@
+Install the following packages in Cygwin:
+- python3
+- python3-devel
+- python3-openssl
+- gcc-core
+- libffi-devel
+- libssl-devel
+- sshpass
+- make
+
+Install the following with PIP:
+- paramiko
+- ansible
+
+Cygwin Extras:
+- vim - 
+- git
+- screen
+- inetutils
+
